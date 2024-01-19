@@ -20,6 +20,7 @@
 Iron Purity Detection is done using machine learning algorithms. Here are the key points
 Data preparation :  Data loading and preprocessing using EDA tools like Pandas , Numpy, seaborn, and matplotlib.
 Algorithms used: 
+
 1)Linear Regression : 
 * It is a fundamental algorithm in machine learning , commonly usefd for predicting  a continuous target variable based on one or more input features. 
 * It assumes a linear relationship between the input features and the target variable.
