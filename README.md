@@ -19,22 +19,22 @@
 # PROPOSED MODEL
 Iron Purity Detection is done using machine learning algorithms. Here are the key points
 Data preparation :  Data loading and preprocessing using EDA tools like Pandas , Numpy, seaborn, and matplotlib.
-  Algorithms used: 
-  1)Linear Regression : 
-    * It is a fundamental algorithm in machine learning , commonly usefd for predicting  a continuous target variable based on one or more input features. 
-    * It assumes a linear relationship between the input features and the target variable.
-    * The algorithm aims to find the best fit-line that minimizes the difference between the predicted and actual values
-    * The basic steps include defining a linear equation (y = mx + b), determining the coefficients 
-    * (m and b) through optimization methods like least squares, and using the trained model for predictions. 
-    * The architecture is straightforward, making it a fundamental tool in regression analysis.
-  2) SGD Regression :
-    * Stochastic Gradient Descent (SGD) Regression is a variant of linear regression that utilizes the stochastic gradient descent optimization algorithm  for training.  
-    * It updates the model parameters based on a randomly selected subset of the training data (mini-batch) rather than the entire dataset. 
-    * This stochastic updating helps improve efficiency and scalability.
-    * The algorithm seeks to minimize a cost function, often the Mean Squared Error, by iteratively adjusting model coefficients with a learning rate. 
-    * The stochastic nature of the updates introduces variability, enabling rapid adaptation to changing data patterns. 
-    * By the careful tuning of hyperparameters, such as learning rate and batch size, is crucial to balance computational efficiency and stable convergence. 
-    * SGD Regression finds applications in scenarios where processing the entire dataset at once is impractical, making it a valuable tool for large-scale regression problems.
+Algorithms used: 
+1)Linear Regression : 
+* It is a fundamental algorithm in machine learning , commonly usefd for predicting  a continuous target variable based on one or more input features. 
+* It assumes a linear relationship between the input features and the target variable.
+* The algorithm aims to find the best fit-line that minimizes the difference between the predicted and actual values
+* The basic steps include defining a linear equation (y = mx + b), determining the coefficients 
+* (m and b) through optimization methods like least squares, and using the trained model for predictions. 
+* The architecture is straightforward, making it a fundamental tool in regression analysis.
+2) SGD Regression :
+* Stochastic Gradient Descent (SGD) Regression is a variant of linear regression that utilizes the stochastic gradient descent optimization algorithm  for training.  
+* It updates the model parameters based on a randomly selected subset of the training data (mini-batch) rather than the entire dataset. 
+* This stochastic updating helps improve efficiency and scalability.
+* The algorithm seeks to minimize a cost function, often the Mean Squared Error, by iteratively adjusting model coefficients with a learning rate. 
+* The stochastic nature of the updates introduces variability, enabling rapid adaptation to changing data patterns. 
+* By the careful tuning of hyperparameters, such as learning rate and batch size, is crucial to balance computational efficiency and stable convergence. 
+* SGD Regression finds applications in scenarios where processing the entire dataset at once is impractical, making it a valuable tool for large-scale regression problems.
       
 # CONCLUSION
 * Automation in Industries: ML models for iron purity detection can be integrated into industrial processes, enhancing automation and reducing human error. This could lead to increased     efficiency in manufacturing.
