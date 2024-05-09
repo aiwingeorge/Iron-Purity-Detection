@@ -44,3 +44,6 @@ Algorithms used:
 * Supply Chain Optimization: ML models can contribute to optimizing the supply chain by predicting and managing inventory levels based on the expected quality of incoming raw materials.
 * Research and Development : Continuous improvement in ML algorithms can lead to more accurate and sophisticated models for iron purity detection, providing researchers with valuable tools for exploring new materials and refining existing ones
 
+# Dataset
+dataset will be given when requested
+aiwinvettukallel1308@gmail.com
